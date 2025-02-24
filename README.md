@@ -1,6 +1,6 @@
 # World Fires Animated Map 🌍🔥
 ```markdown
-![Plot Image](image/world_fires_map.png)
+![Plot Image](image/plot.png)
 ```
 This repository contains an interactive visualization of global fire data. The map uses Plotly to display fire brightness across the globe and features an animated rotation to give a dynamic view of fire activity.
 
