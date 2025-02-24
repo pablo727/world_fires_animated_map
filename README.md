@@ -1,4 +1,7 @@
 # World Fires Animated Map 🌍🔥
+```markdown
+![Plot Image](image/world_fires_map.png)
+```
 This repository contains an interactive visualization of global fire data. The map uses Plotly to display fire brightness across the globe and features an animated rotation to give a dynamic view of fire activity.
 
 ## 🔍 Features
@@ -27,9 +30,6 @@ python world_fires.py
 
 ## 🛰️ Data Source
 - The fire data comes from [NASA FIRMS](https://www.earthdata.nasa.gov/) (Fire Information for Resource Management System).
-
-## Preview
-(Insert an image or GIF of the visualization)
 
 ## 📝 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
